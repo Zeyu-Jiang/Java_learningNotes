@@ -1,4 +1,4 @@
-# Java_learningNotes
+# java-learning-notes
 ## Core concepts / Major classes / Exerices practices
 
 This repository contains notes of my Java learning knowledge from the websites, books, public courses and other resources.
