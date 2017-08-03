@@ -153,7 +153,7 @@ class Student{ // this is the first class.
 
     void printDetail(){ // another method examole.
         System.out.println(name+" "+sex+" "+age);
-    }
+     }
 }
 
 class Teacher{ // this it the second class.
@@ -188,7 +188,7 @@ public class Example{ // this class contain the main method. so the file name sh
 }
 ```
 
-#The name conventions in Java
+# The name conventions in Java
 **class name**: starts with uppercase letter and should be noun.
 ```java
 class Student{};
